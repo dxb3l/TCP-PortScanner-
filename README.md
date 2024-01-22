@@ -27,4 +27,4 @@ Ten program powinien być używany tylko do celów edukacyjnych lub w pełni leg
 
 ## Licencja
 
-Ten program jest dostępny na licencji MIT. Szczegóły można znaleźć w pliku [LICENSE](LICENSE).
+Ten program jest dostępny na licencji GNU. Szczegóły można znaleźć w pliku [LICENSE](LICENSE).
